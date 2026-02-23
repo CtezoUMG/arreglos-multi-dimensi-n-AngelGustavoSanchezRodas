@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\bin\Debug\net10.0\TestArreglo.exe
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\bin\Debug\net10.0\TestArreglo.deps.json
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\bin\Debug\net10.0\TestArreglo.runtimeconfig.json
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\bin\Debug\net10.0\TestArreglo.dll
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\bin\Debug\net10.0\TestArreglo.pdb
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.AssemblyInfo.cs
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.sourcelink.json
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.dll
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\refint\TestArreglo.dll
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.pdb
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\TestArreglo.genruntimeconfig.cache
+C:\Users\USER\source\repos\arreglos-multi-dimensi-n-AngelGustavoSanchezRodas\obj\Debug\net10.0\ref\TestArreglo.dll
