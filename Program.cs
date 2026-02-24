@@ -18,7 +18,6 @@ for (int i = 0; i < n; i++)
 // Instrucción: El alumno debe encontrar el valor máximo del arreglo 'numeros'
 Array.Sort(numeros);
 int maximo = numeros[n - 1];
-
 // TODO: Implementar el algoritmo de búsqueda aquí
 
 // --- FIN DE LÓGICA DEL ALUMNO ---
